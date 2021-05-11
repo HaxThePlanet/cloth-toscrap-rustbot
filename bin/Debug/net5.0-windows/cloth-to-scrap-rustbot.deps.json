@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "cloth-to-scrap-rustbot/1.0.0": {
+        "runtime": {
+          "cloth-to-scrap-rustbot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cloth-to-scrap-rustbot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
